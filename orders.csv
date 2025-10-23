@@ -1,0 +1,61 @@
+order_id,student,major,campus,category,item,price,quantity,total,order_date
+1001,Student_19,Physics,Main,Lab Kit,Chemistry Kit,24.99,3,74.97,2025-03-11
+1002,Student_3,Economics,North,Drink,Sparkling Water,2.49,4,9.96,2025-02-24
+1003,Student_2,Physics,North,Hoodie,Blue Hoodie,34.99,2,69.98,2025-03-10
+1004,Student_17,English,Main,Lab Kit,Chemistry Kit,24.99,1,24.99,2025-03-16
+1005,Student_15,English,Main,Drink,Sparkling Water,2.49,3,7.47,2025-02-16
+1006,Student_5,Computer Science,Main,Hoodie,Gray Hoodie,34.99,3,104.97,2025-02-03
+1007,Student_14,Mathematics,Main,Drink,Sparkling Water,2.49,1,2.49,2025-02-04
+1008,Student_15,English,Main,Snack,Chips,1.79,1,1.79,2025-02-20
+1009,Student_17,Physics,Main,Lab Kit,Physics Kit,24.99,4,99.96,2025-02-14
+1010,Student_22,Psychology,Main,Lab Kit,Biology Kit,24.99,4,99.96,2025-02-06
+1011,Student_10,Business,North,Snack,Chips,1.79,1,1.79,2025-03-06
+1012,Student_21,Physics,Main,Hoodie,Gray Hoodie,34.99,3,104.97,2025-03-12
+1013,Student_13,Economics,Main,Textbook,Psych Text,59.99,3,179.97,2025-02-25
+1014,Student_24,Biology,Main,Notebook,Graph Notebook,4.99,3,14.97,2025-02-09
+1015,Student_3,Computer Science,North,Notebook,Dotted Journal,4.99,3,14.97,2025-03-07
+1016,Student_7,English,Main,Notebook,Dotted Journal,4.99,1,4.99,2025-03-13
+1017,Student_5,Art History,Main,Notebook,Lined Notebook,4.99,1,4.99,2025-02-24
+1018,Student_15,Computer Science,Main,Drink,Tea,2.49,3,7.47,2025-03-09
+1019,Student_7,Economics,Main,Hoodie,Black Hoodie,34.99,1,34.99,2025-02-14
+1020,Student_19,English,Main,Drink,Coffee,2.49,3,7.47,2025-02-13
+1021,Student_7,Psychology,South,Notebook,Graph Notebook,4.99,4,19.96,2025-02-23
+1022,Student_19,Psychology,South,Textbook,Econ Text,59.99,3,179.97,2025-02-07
+1023,Student_12,Mathematics,Main,Hoodie,Gray Hoodie,34.99,2,69.98,2025-02-28
+1024,Student_7,English,Main,Lab Kit,Biology Kit,24.99,2,49.98,2025-02-25
+1025,Student_9,Mathematics,North,Hoodie,Blue Hoodie,34.99,1,34.99,2025-02-13
+1026,Student_1,Physics,Main,Drink,Sparkling Water,2.49,2,4.98,2025-03-09
+1027,Student_24,Physics,South,Drink,Tea,2.49,4,9.96,2025-03-04
+1028,Student_7,Biology,Main,Notebook,Graph Notebook,4.99,2,9.98,2025-02-12
+1029,Student_17,Economics,Main,Snack,Trail Mix,1.79,1,1.79,2025-02-17
+1030,Student_1,Mechanical Eng,Main,Snack,Chips,1.79,4,7.16,2025-03-04
+1031,Student_6,Business,Main,Notebook,Dotted Journal,4.99,2,9.98,2025-02-26
+1032,Student_24,Physics,Main,Lab Kit,Physics Kit,24.99,3,74.97,2025-03-10
+1033,Student_1,Mechanical Eng,Main,Textbook,Psych Text,59.99,2,119.98,2025-02-16
+1034,Student_19,Computer Science,Main,Notebook,Dotted Journal,4.99,2,9.98,2025-03-08
+1035,Student_20,Computer Science,Main,Snack,Trail Mix,1.79,3,5.37,2025-02-07
+1036,Student_11,Art History,South,Notebook,Graph Notebook,4.99,4,19.96,2025-02-01
+1037,Student_10,Business,South,Lab Kit,Chemistry Kit,24.99,1,24.99,2025-03-02
+1038,Student_1,English,South,Drink,Sparkling Water,2.49,4,9.96,2025-02-02
+1039,Student_19,Art History,Main,Hoodie,Blue Hoodie,34.99,1,34.99,2025-03-07
+1040,Student_17,Biology,North,Drink,Tea,2.49,4,9.96,2025-02-11
+1041,Student_3,Psychology,Main,Lab Kit,Biology Kit,24.99,4,99.96,2025-02-25
+1042,Student_16,Business,Main,Notebook,Graph Notebook,4.99,2,9.98,2025-03-07
+1043,Student_21,Biology,Main,Textbook,Calc Text,59.99,4,239.96,2025-02-14
+1044,Student_19,Biology,Main,Lab Kit,Physics Kit,24.99,3,74.97,2025-02-12
+1045,Student_2,Mechanical Eng,South,Hoodie,Black Hoodie,34.99,2,69.98,2025-02-08
+1046,Student_4,Biology,Main,Textbook,Psych Text,59.99,1,59.99,2025-02-19
+1047,Student_14,Biology,South,Drink,Coffee,2.49,4,9.96,2025-03-02
+1048,Student_17,Mathematics,South,Textbook,Psych Text,59.99,3,179.97,2025-03-01
+1049,Student_23,Computer Science,South,Hoodie,Blue Hoodie,34.99,3,104.97,2025-02-21
+1050,Student_22,Business,Main,Notebook,Dotted Journal,4.99,4,19.96,2025-03-03
+1051,Student_23,Physics,Main,Snack,Trail Mix,1.79,4,7.16,2025-02-22
+1052,Student_8,English,South,Snack,Trail Mix,1.79,3,5.37,2025-02-17
+1053,Student_10,Mechanical Eng,Main,Notebook,Graph Notebook,4.99,3,14.97,2025-03-01
+1054,Student_4,Mathematics,North,Snack,Trail Mix,1.79,2,3.58,2025-02-07
+1055,Student_2,Computer Science,Main,Textbook,Calc Text,59.99,4,239.96,2025-02-28
+1056,Student_22,Mechanical Eng,Main,Snack,Trail Mix,1.79,3,5.37,2025-02-22
+1057,Student_1,Mechanical Eng,Main,Notebook,Lined Notebook,4.99,2,9.98,2025-03-09
+1058,Student_20,Psychology,North,Textbook,Calc Text,59.99,3,179.97,2025-03-04
+1059,Student_13,Art History,Main,Hoodie,Black Hoodie,34.99,3,104.97,2025-02-16
+1060,Student_23,Computer Science,North,Snack,Chips,1.79,2,3.58,2025-02-19
