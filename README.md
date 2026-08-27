@@ -1,6 +1,6 @@
 # Intermediate Python: Intro to Pandas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang7337-hub/PythonPDH/blob/main/intro_to_pandas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang7337-hub/Python-Workshops/blob/main/intro_to_pandas.ipynb)
 
 A hands-on **45-minute PDH exercise** introducing [pandas](https://pandas.pydata.org/),
 the standard Python library for working with tabular data (tables, spreadsheets,
@@ -33,8 +33,8 @@ found locally — so there is nothing to upload.
 You need Python 3.9+ and Jupyter:
 
 ```bash
-git clone https://github.com/wang7337-hub/PythonPDH.git
-cd PythonPDH
+git clone https://github.com/wang7337-hub/Python-Workshops.git
+cd Python-Workshops
 pip install -r requirements.txt
 jupyter notebook intro_to_pandas.ipynb
 ```
@@ -82,3 +82,24 @@ hints, and the notebook ships with outputs cleared so you run it yourself.
 Reference solutions live in the final markdown cell, inside a collapsed
 `<details>` block so students don't see them by accident. Expand it to reveal
 worked answers for every task.
+
+### Maintaining this repo
+
+The repository name appears in exactly **three** places. If you ever rename the
+repo, change the default branch, or move the notebook, update all three:
+
+1. `README.md` — the **Open In Colab** badge link at the top
+2. `README.md` — the `git clone` command under *Run locally*
+3. `intro_to_pandas.ipynb` — the `REPO` constant in the first code cell, which
+   builds the URL the notebook falls back to when `orders.csv` isn't present
+
+That `REPO` constant is the only spot in the notebook itself, so a rename is a
+one-line change there. GitHub does redirect old repository URLs, so links keep
+working for a while after a rename — but they're worth updating anyway.
+
+### Adding another workshop
+
+Files currently sit at the repo root. When a second workshop is added, move each
+one into its own folder (for example `intro-to-pandas/`) and turn this README
+into an index that links to them — remembering that doing so changes the badge,
+clone, and `REPO`/CSV paths above.
