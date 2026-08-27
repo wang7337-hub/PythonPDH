@@ -1,0 +1,5 @@
+# Only needed to run the notebook locally.
+# In Google Colab these are already installed - just open the notebook.
+pandas>=2.0
+matplotlib>=3.5
+notebook>=6.5
